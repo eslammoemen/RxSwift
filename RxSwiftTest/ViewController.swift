@@ -10,7 +10,7 @@ import RxSwift
 import RxCocoa
 
 class ViewController: UIViewController {
-   // nosdasdxfadfasdascasfafa
+   // nosdasdxfadfasdd`sd`zc`xcwefacxcadasdasdasdascasfafa
     override func viewDidLoad() {
         super.viewDidLoad()
         
