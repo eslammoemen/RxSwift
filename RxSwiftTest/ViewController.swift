@@ -13,7 +13,11 @@ class ViewController: UIViewController {
 
     //,jkjkhgasf,nh.skhf
     //jhgvasfdba,sfhcfchc
+    /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptionIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
+        //fasfas
+    }
     /dsdkhsalfjfjf
+    //asdasdf
     //asm,fbas,bfasljfb
     
     asd
