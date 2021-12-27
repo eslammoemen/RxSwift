@@ -10,7 +10,14 @@ import RxSwift
 import RxCocoa
 
 class ViewController: UIViewController {
+   // nosdasdxfadfasdd`sd`zc`xcwefacxcadasdalhgkvhjghcfgxdzfdszdfgfhfjgkjhlsdasdascasfafa
+    //djasgdkahscvjac
+    //dadgkjgajsf
+    //dasd/
+    //dsaf
+    //asdasdgqeuodgqdjoqvsxiaskgmxvckqeioqeh;ckbljvkhjgvghi;jo;hvjh
 
+<<<<<<< HEAD
     //,jkjkhgasf,nh.skhf
     //jhgvasfdba,sfhcfchc
     /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptionIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
@@ -25,6 +32,7 @@ class ViewController: UIViewController {
     is
 asf
    // nosdasdxfadfasdd`sd`zc`xcwefacxcadasdalhgkvhjghcfgxdzfdszdfgfhfjgkjhlsdasdascasfaf
+=======
     override func viewDidLoad() {
         super.viewDidLoad()
         
