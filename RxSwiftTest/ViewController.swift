@@ -12,15 +12,15 @@ import RxCocoa
 class ViewController: UIViewController {
    // nosdasdxfadfasdd`sd`zc`xcwefacxcadasdalhgkvhjghcfgxdzfdszdfgfhfjgkjhlsdasdascasfafa
     //djasgdkahscvjac
-    //dadgkjgajsf
-    //dasd/
-    //dsaf
+    //dadgkjgajsfdasd
+    //dasd/asd
+    //dsafdasd
     //asdasdgqeuodgqdjoqvsxiaskgmxvckqeioqeh;ckbljvkhjgvghi;jo;hvjh
 
-<<<<<<< HEAD
+<<<<<<< HEADasda
     //,jkjkhgasf,nh.skhf
-    //jhgvasfdba,sfhcfchc
-    /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptionIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
+    //jhgvasfdba,sfhasdcfchc
+    /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptiodsadnIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
         //fasfas
     }
     /dsdkhsalfjfjf
