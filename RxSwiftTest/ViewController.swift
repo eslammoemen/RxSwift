@@ -11,21 +11,34 @@ import RxCocoa
 
 class ViewController: UIViewController {
    // nosdasdxfadfasdd`sd`zc`xcwefacxcadasdalhgkvhjghcfgxdzfdszdfgfhfjgkjhlsdasdascasfafa
+<<<<<<< HEAD
     //djasgdkahscvjac
     //dadgkjgajsfdasd
     //dasd/asd
     //dsafdasd
+=======
+    //djasgdkahscvjacasdads
+    //dadgkjgajsfasdasd
+    //dasd/asd
+    //dsafdsa
+>>>>>>> 1e73011390b89030a3dad4fc6e595d649ccd2c35
     //asdasdgqeuodgqdjoqvsxiaskgmxvckqeioqeh;ckbljvkhjgvghi;jo;hvjh
+   //sadasf
 
 <<<<<<< HEADasda
     //,jkjkhgasf,nh.skhf
+<<<<<<< HEAD
     //jhgvasfdba,sfhasdcfchc
     /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptiodsadnIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
         //fasfas
+=======
+    //jhgvasfdba,sfhcfchc
+   //dasd
+    /override class func attemptRecovery(fromError error: Error, optionIndex recoveryOptionIndex: Int, delegate: Any?, didRecoverSelector: Selector?, contextInfo: UnsafeMutableRawPointer?) {
+        //fasfas/dasd
+>>>>>>> 1e73011390b89030a3dad4fc6e595d649ccd2c35
     }
     /dsdkhsalfjfjf
-    //asdasdf
-    //asm,fbas,bfasljfb
     //asdasdfasdasdasd
     //asm,fbas,bfasljfbasdda
     
